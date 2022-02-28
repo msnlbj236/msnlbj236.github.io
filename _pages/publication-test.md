@@ -4,15 +4,30 @@ permalink: /publication-test/
 author_profile: true
 ---
 
-Published 
+As Co-first Author 
+(Equal Contributions)
 ======
 
 * Jounrnal paper
-  * Theoretical Analysis on Strain Transfer Error of FBG Sensors Attached on Steel Structures Subjected to Fatigue Load. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/str.12195)
-  * A wireless fatigue monitoring system utilizing a bio-inspired tree ring data tracking technique. [link](https://www.mdpi.com/1424-8220/14/3/4364/htm)
+  * Strong interaction between interlayer excitons and correlated electrons in WSe2/WS2 moiré superlattice. [Link](https://www.nature.com/articles/s41467-021-23732-6)
+  * Correlated insulating states at fractional fillings of the WS2/WSe2 moiré lattice. [link](https://www.nature.com/articles/s41567-021-01171-w)
+  * Phonon-exciton Interactions in WSe2 under a quantizing magnetic field. [Link](https://www.nature.com/articles/s41467-020-16934-x)
+  * Metasurface Integrated Monolayer Exciton Polariton. [link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c01624)
+  * Giant Valley-Zeeman Splitting from Spin-Singlet and Spin-Triplet Interlayer Excitons in WSe2/MoSe2 Heterostructure. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b04528)
+
+* Review paper
+  * Fine structures of valley-polarized excitonic states in monolayer transitional metal dichalcogenides. [link](https://www.degruyter.com/document/doi/10.1515/nanoph-2020-0054/html)
   
-* Conference paper
-  * Towards an Occupancy-Enhanced Building HVAC Control Strategy Using Wi-Fi Probe Request Information. [link](https://ascelibrary.org/doi/abs/10.1061/9780784480847.003)
-  * An optimized FBG-based fatigue monitoring strategy on deepwater risers.  [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9276/927620/An-optimized-FBG-based-fatigue-monitoring-strategy-on-deepwater-risers/10.1117/12.2072847.full?SSO=1)
-  * Optimization analysis and experimental validation of distributed optical fiber sensors for pavement monitoring based on strain transfer mechanism. [link](https://www.researchgate.net/publication/309282249_Optimization_analysis_and_experimental_validation_of_distributed_optical_fiber_sensors_for_pavement_monitoring_based_on_strain_transfer_mechanism)
+
+As Co-Author 
+======
+
+* Jounrnal paper
+  * Strong interaction between interlayer excitons and correlated electrons in WSe2/WS2 moiré superlattice. [Link](https://www.nature.com/articles/s41467-021-23732-6)
+  * Correlated insulating states at fractional fillings of the WS2/WSe2 moiré lattice. [link](https://www.nature.com/articles/s41567-021-01171-w)
+  * Phonon-exciton Interactions in WSe2 under a quantizing magnetic field. [Link](https://www.nature.com/articles/s41467-020-16934-x)
+  * Metasurface Integrated Monolayer Exciton Polariton. [link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c01624)
+  * Giant Valley-Zeeman Splitting from Spin-Singlet and Spin-Triplet Interlayer Excitons in WSe2/MoSe2 Heterostructure. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b04528)
+
+
 
