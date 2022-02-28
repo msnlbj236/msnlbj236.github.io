@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student with double majors at [Rensselaer Polytechnic Institute](https://www.rpi.edu). I have conducted 1-year research in the [Mathematical Sciences Department](https://science.rpi.edu/mathematical-sciences), advised by [Prof. Yangyang Xu](https://xu-yangyang.github.io/), I have also conducted 3-years research in the [Chemical and Biological Engineering Department](https://https://cbe.rpi.edu/) advised by [Prof. Sufei Shi](https://sufei-shi.weebly.com/people.html). A short version of my resume could be found [here](https://msnlbj236.github.io/files/Optical_Resume_Vivian_Miao_Feb27.pdf) .
+I am a master student with double majors at [Rensselaer Polytechnic Institute](https://www.rpi.edu). I have conducted 1-year research in the [Mathematical Sciences Department](https://science.rpi.edu/mathematical-sciences), advised by [Prof. Yangyang Xu](https://xu-yangyang.github.io/), I have also conducted 3-years research in the [Chemical and Biological Engineering Department](https://cbe.rpi.edu/) advised by [Prof. Sufei Shi](https://sufei-shi.weebly.com/people.html). A short version of my resume could be found [here](https://msnlbj236.github.io/files/Optical_Resume_Vivian_Miao_Feb27.pdf) .
 
 **Research Interest**
 Generalizable Model Predictive Control; Spatial-temporal Modeling of Interdependent Urban Systems; Stochastic Control
