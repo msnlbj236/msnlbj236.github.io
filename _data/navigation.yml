@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publication-test/
+    
+  - title: "Conferences"
+    url: /conference/    
 
   - title: "CV"
     url: /cv/    
