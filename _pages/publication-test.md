@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 
-##As Co-first Author (Equal Contributions)
-======
+## As Co-first Author (Equal Contributions)
 
 * Journal paper
   * Strong interaction between interlayer excitons and correlated electrons in WSe2/WS2 moiré superlattice. [Link](https://www.nature.com/articles/s41467-021-23732-6)
@@ -15,8 +14,8 @@ author_profile: true
   * Metasurface Integrated Monolayer Exciton Polariton. [link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c01624)
   * Giant Valley-Zeeman Splitting from Spin-Singlet and Spin-Triplet Interlayer Excitons in WSe2/MoSe2 Heterostructure. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b04528)
 
-##As Co-Author 
-======
+## As Co-Author 
+
 
 * Journal paper
   * Observation of Quantized Exciton Energies in Monolayer WSe2 under a Strong Magnetic Field. [Link](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.021024)
