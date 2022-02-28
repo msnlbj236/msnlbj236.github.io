@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Publications"
 permalink: /publication-test/
 author_profile: true
 ---
 
 
-As Co-first Author (Equal Contributions)
+##As Co-first Author (Equal Contributions)
 ======
 
 * Journal paper
@@ -15,7 +15,7 @@ As Co-first Author (Equal Contributions)
   * Metasurface Integrated Monolayer Exciton Polariton. [link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c01624)
   * Giant Valley-Zeeman Splitting from Spin-Singlet and Spin-Triplet Interlayer Excitons in WSe2/MoSe2 Heterostructure. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b04528)
 
-As Co-Author 
+##As Co-Author 
 ======
 
 * Journal paper
