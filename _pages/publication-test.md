@@ -8,7 +8,7 @@ author_profile: true
 As Co-first Author (Equal Contributions)
 ======
 
-* Jounrnal paper
+* Journal paper
   * Strong interaction between interlayer excitons and correlated electrons in WSe2/WS2 moiré superlattice. [Link](https://www.nature.com/articles/s41467-021-23732-6)
   * Correlated insulating states at fractional fillings of the WS2/WSe2 moiré lattice. [link](https://www.nature.com/articles/s41567-021-01171-w)
   * Phonon-exciton Interactions in WSe2 under a quantizing magnetic field. [Link](https://www.nature.com/articles/s41467-020-16934-x)
@@ -18,7 +18,7 @@ As Co-first Author (Equal Contributions)
 As Co-Author 
 ======
 
-* Jounrnal paper
+* Journal paper
   * Observation of Quantized Exciton Energies in Monolayer WSe2 under a Strong Magnetic Field. [Link](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.021024)
   * Giant Valley-Polarized Rydberg Excitons in Monolayer WSe2 Revealed by Magneto-photocurrent Spectroscopy. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c03167)
   * Electrical switching between exciton dissociation to exciton funneling in MoSe2/WS2 heterostructure. [link](https://www.nature.com/articles/s41467-020-16419-x)
