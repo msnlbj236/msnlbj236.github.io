@@ -13,7 +13,9 @@ I am a master student with double majors at [Rensselaer Polytechnic Institute](h
 **Research Interest**: 
 Stochastic Optimization, Distributed Learning, Deep Learning, Computer Vision; Nanoscale Optics & Electronics, Semiconductor Physics, Signal Processing.
 
-My current research is to perform optimization methods and convergence analysis to design new algorithms to solve mathematical problems in machine learning, deep learning and distributed/federated learning and also run numerical experiments with large-scale datasets. I also have rich experiences in designing, optimizing and simulating optical and electrical measurement systems with semiconductor physics, optoelectronic devices, photonic crystals and quantum optics. I'm also experienced in cleanroom techniques for device fabrication and characterization.
+My current research is to perform optimization methods and convergence analysis to design new algorithms to solve mathematical problems in machine learning, deep learning and distributed/federated learning and also run numerical experiments with large-scale datasets. 
+
+I also have rich experiences in designing, optimizing and simulating optical and electrical measurement systems with semiconductor physics, optoelectronic devices, photonic crystals and quantum optics. I'm also experienced in cleanroom techniques for device fabrication and characterization.
 
 Before coming to RPI, I obtained B.S. in Physics, National Elite Program, from [Nanjing University](https://www.nju.edu.cn/en/main.psp). I have worked as an undergraduate research assistant in [Prof. Xiaoyong Wang](https://sps.nju.edu.cn/)'s Single-Particle Spectroscopy Laboratory. My undergraduate research was focused on optical studies of time-resolved two-pulse excitation of CsPbI3 quantum dots, and also temperature dependence of CdSe colloidal quantum dots’ fluorescence lifetime.
 
