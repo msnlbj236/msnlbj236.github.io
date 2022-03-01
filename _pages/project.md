@@ -1,9 +1,7 @@
 ---
-layout: archive
 title: "Project"
 permalink: /project/
 author_profile: true
-youtubeId: detectionVideo
 ---
 
 {% include base_path %}
