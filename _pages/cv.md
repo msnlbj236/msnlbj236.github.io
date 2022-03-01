@@ -40,15 +40,15 @@ Course Work
   
 Teaching
 ------
-* 2021 Fall: Introduction to Differential Equations
-* 2019 Summer: REU program mentor 
+* **2021 Fall**: Introduction to Differential Equations
+* **2019 Summer**: REU program mentor 
   
 Award and Scholarships
 ------
-* 2019. Judge’s Award, RPI
-* 2018. Howard P. Isermann Fellowship in CBE, RPI 
-* 2017. Meritorious Winner (top 7%) of Mathematical Contest in Modeling (MCM) 
-* 2017. 2nd Prize of Elite Program’s Scholarship (top 8%), Nanjing U.
-* 2016. 2nd Prize of People’s Scholarship (top 10%), Nanjing U.
-* 2016. 3rd Prize of Chinese Mathematical Modeling Contest 
-* 2015. 1st Prize of People’s Scholarship (top 5%), Nanjing U. 
+* **2019**. Judge’s Award, RPI
+* **2018**. Howard P. Isermann Fellowship in CBE, RPI 
+* **2017**. Meritorious Winner (top 7%) of Mathematical Contest in Modeling (MCM) 
+* **2017**. 2nd Prize of Elite Program’s Scholarship (top 8%), Nanjing U.
+* **2016**. 2nd Prize of People’s Scholarship (top 10%), Nanjing U.
+* **2016**. 3rd Prize of Chinese Mathematical Modeling Contest 
+* **2015**. 1st Prize of People’s Scholarship (top 5%), Nanjing U. 
