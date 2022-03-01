@@ -17,7 +17,7 @@ Education
 
 Work experience
 ------
-* 2021.05 - 2022.05: Research Assistant in Machine Learning @  [Prof. Yangyang XU's Group](https://xu-yangyang.github.io/group.html)
+* 2021.05 - 2022.05: Research Assistant in Machine Learning @  [Prof. Yangyang Xu's Group](https://xu-yangyang.github.io/group.html)
   * W
 
 * 2018.09 - 2021.05: Research Assistant in Semiconductor Optics @  [Ultrafast Nanoscale Optoelectronics Group](https://sufei-shi.weebly.com/)
