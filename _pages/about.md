@@ -17,7 +17,7 @@ My current research is to perform optimization methods and convergence analysis 
 
 I also have rich experiences in designing, optimizing and simulating optical and electrical measurement systems with semiconductor physics, optoelectronic devices, photonic crystals and quantum optics. I'm also experienced in cleanroom techniques for device fabrication and characterization.
 
-Before coming to RPI, I obtained B.S. in Physics, National Elite Program, from [Nanjing University](https://www.nju.edu.cn/en/main.psp). I have worked as an undergraduate research assistant in [Prof. Xiaoyong Wang](https://sps.nju.edu.cn/)'s Single-Particle Spectroscopy Laboratory. My undergraduate research was focused on optical studies of time-resolved two-pulse excitation of CsPbI3 quantum dots, and also temperature dependence of CdSe colloidal quantum dots’ fluorescence lifetime.
+Before coming to RPI, I obtained B.S. in Physics, National Elite Program, from [Nanjing University](https://www.nju.edu.cn/en/main.psp). I have worked as an undergraduate research assistant in [Prof. Xiaoyong Wang](https://sps.nju.edu.cn/)'s Single-Particle Spectroscopy Laboratory. My undergraduate research was focused on optical studies of time-resolved two-pulse excitation of CsPbI<sub>3</sub> quantum dots, and also temperature dependence of CdSe colloidal quantum dots’ fluorescence lifetime.
 
 Besides research, I am fan of basketball, skiing, photography and oil painting. My favourite NBA player is *LeBron James* and my favourite Impressionist painters are *Pierre-Auguste Renoir* and *Edgar Degas*. I have been to famous ski resorts like Aspen, Killington and Lake Tahoe, I really enjoy the stunning views from the top of the mountains.  
 
