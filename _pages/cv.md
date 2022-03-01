@@ -13,17 +13,15 @@ Education
 ------
 * M.S., Rensselaer Polytechnic Institute, *Applied Mathematics*, 2019.09 - 2022.05 (expected)
 * M.E., Rensselaer Polytechnic Institute, *Semiconductor Optics*, 2018.09 - 2021.12
-* B.S., Nanjing University, *Physics* 2014.09 - 2018.06
+* B.S., Nanjing University, *Physics*, 2014.09 - 2018.06
 
 Work experience
 ------
 * 2021.05 - 2022.05: Research Assistant in Machine Learning @  [Prof. Yangyang XU's Group](https://xu-yangyang.github.io/group.html)
-  * Wrangled and standardized 1M work orders data from 5 sources, trained Named Entity Recognition models and achieved F1 score of 0.82.
-  * Design
+  * W
 
 * 2018.09 - 2021.05: Research Assistant in Semiconductor Optics @  [Ultrafast Nanoscale Optoelectronics Group](https://sufei-shi.weebly.com/)
-  * Wrangled and standardized 1M work orders data from 5 sources, trained Named Entity Recognition models and achieved F1 score of 0.82.
-  * Design
+  * W
 
 Skills
 ------
@@ -42,11 +40,15 @@ Course Work
   
 Teaching
 ------
-* 2016, 2017: Data Acquisition (12740)
-* 2017, 2018, 2019: Mechanical and Electrical System Design for Buildings (12748)
-* 2019: Sustainable Buildings (12747)
+* 2021 Fall: Introduction to Differential Equations
+* 2019 Summer: REU program mentor 
   
 Award and Scholarships
 ------
-* 2016 - 2018: Carnegie Mellon University CIT Dean's Fellowships
-* 2017: Fenves Travel Grant
+* 2019. Judge’s Award, RPI
+* 2018. Howard P. Isermann Fellowship in CBE, RPI 
+* 2017. Meritorious Winner (top 7%) of Mathematical Contest in Modeling (MCM) 
+* 2017. 2nd Prize of Elite Program’s Scholarship (top 8%), Nanjing U.
+* 2016. 2nd Prize of People’s Scholarship (top 10%), Nanjing U.
+* 2016. 3rd Prize of Chinese Mathematical Modeling Contest 
+* 2015. 1st Prize of People’s Scholarship (top 5%), Nanjing U. 
