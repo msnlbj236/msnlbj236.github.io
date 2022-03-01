@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "air" #"aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua"  #"air", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Shengnan (Vivian) Miao"
-  avatar           : "profile.png"
+  avatar           : "selfie_3.jpg"
   bio              : "Master in Applied Mathematics & Semiconductor Optics, \n\n Rensselaer Polytechnic Institute"
   location         : "San Diego"
   employer         :
