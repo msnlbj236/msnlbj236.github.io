@@ -12,7 +12,7 @@ redirect_from:
 Education
 ------
 * M.S., Rensselaer Polytechnic Institute, *Applied Mathematics*, 2019.09 - 2022.05 (expected)
-* M.E., Rensselaer Polytechnic Institute, *Semiconductor Optics*, 2018.09 - 2021.12
+* M.E., Rensselaer Polytechnic Institute, *Semiconductor Optics in department of Chemical Engineering*, 2018.09 - 2021.12
 * B.S., Nanjing University, *Physics*, 2014.09 - 2018.06
 
 Work experience
