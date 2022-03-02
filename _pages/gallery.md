@@ -11,6 +11,15 @@ layouts_gallery:
   - url: /images/gallery/Penguins.jpg
     image_path: /images/gallery/Penguins.jpg
     alt: "test3"
+  - url: /images/gallery/Koala.jpg
+    image_path: /images/gallery/Koala.jpg
+    alt: "test4"
+  - url: /images/gallery/Lighthouse.jpg
+    image_path: /images/gallery/Lighthouse.jpg
+    alt: "test5"
+  - url: /images/gallery/Penguins.jpg
+    image_path: /images/gallery/Penguins.jpg
+    alt: "test6"
 last_modified_at: 2022-02-28T10:23:16-04:00
 toc: true
 ---
