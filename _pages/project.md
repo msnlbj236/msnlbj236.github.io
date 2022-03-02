@@ -27,12 +27,25 @@ Research Projects
      
 Course Projects 
 ------------- 
-* *Object Counting by Leveraging CNN and LSTM with Multi-Source of Input*
-  - Designed and implemented a framework by leveraging CNN, LSTM and residual layer for vehicle counting, given input images suffering from low framerate, low resolution, high occlusion and large perspectives. 
-  - Trained and validated the model on TRANSCOS dataset with ~1200 images, evaluated the effectiveness of various data augmentation tricks such as flipping, cropping, and adjusting contrast/brightness. 
-  - Attained a 4.47 MAE that is comparable to state-of-the-art models. The full report can be found [here](). 
+* *Real-time Parking Space Detection*
+  - Captured 600+ parking lots images from video with OpenCV and pre-processed images based on Grayscale Transform.
+  - Applied multiple image processing methods for image augmentation, expanded train dataset size by 10 times.
+  - Conducted image segmentation based on Hough Transform, Harris Corner Detector and Canny Edge Detector.
+  - Performed feature detection and matching, homography estimation with MOPS descriptor, SIFT descriptor and RANSAC.
+  - Built and trained CNN model based on VGG16 and MobileNet for identification using Keras, got 92.4% validation accuracy.
+  - Created a real-time parking space detector to predict the available or occupied parking spots from 600+ parking lots 
 
-* *Regression Analysis*
-  - Investigated patterns and developed classification models that help to refine advertising strategies for regular check-ups in less developed countries. The full report is listed [here](). Essentially,
-  - A random forest model is chosen to rank the importance of covariates that motivate regular check-ups.
-  - A logistic regression model is implemented to identify key features and reference likelihood of the people that can be potentially persuaded for check-up.
+* *Used Car Market Forecast* 
+  - Mined and engineered 400k historical trades over 12 months for used car markets to predict the car price for future trades.
+  - Performed EDA and visualized the time series and the correlation matrix of features with price using python.
+  - Engineered 40 key features including Make, Model and Mileage, performed PCA to extract the usable data after encoding.
+  - Predicted car price with multiple tree-based prediction models (XGBoost, LightGBM, Catboost), achieved MAE as 180.
+  - Designed a fully connected Neural Networks with activation function of softplus, tuned the regressor with 5-fold cross validation and trained with iterative decreasing learning rate, reduced MAE by 26.7%.
+
+* *News Recommendation System*
+  - Developed data pipeline to clean and label 3M clicks data over 0.36M articles from MySQL database with python.
+  - Calculated cosine similarity and SVD Matrix Factorization to quantify the similarity between articles.
+  - Lessened recommendation list from item-based collaborative filtering (ItemCF), top-k clicking news and embedding retrieval.
+  - Identified 12 key metrics for recommendation model, including news category, words count, user logs and click timestamp.
+  - Trained GBDT+LR (Logistic Regression), LightGBM and DIN (Deep Interest Network) model, performed model stacking for predictions with the evaluation metric of mean reciprocal rank (MRR), achieved MRR as 0.3110.
+  - Built a recommendation system to predict 5 most recommended articles based on user’s click history, targeting for 0.3M users
