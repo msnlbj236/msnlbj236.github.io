@@ -6,7 +6,7 @@ author_profile: true
 
 Research Projects 
 --------------
-* *Using Multi-modal Transportation Data For Energy Prediction and Management in Buildings*
+* *Accelerating Decentralized Momentum SGD in Large-batch Deep Learning for Object Detection*
   * **Motivation**: Urban systems, including transporations and buildings are highly interrelated given the spatial-temporal flow of system users. The change of magnitude of occupancy in one system can be in proportion to the fluctuation in one another. In this project we aim at investigating the edge potential of predicting the energy profile of buildings, from the rich and fine-grained transportation data including realtime traffic flow intensity, and public transit status. The refined prediction would further improve the performance of Model Predictive Control (MPC) on building energy management. [link](). 
 
       <p align="center"><img width="650" height="225" src='/images/transResearch/motivation.png'></p>
@@ -16,7 +16,7 @@ Research Projects
       <p align="center"><img width="900" height="300" src='/images/transResearch/STGAT.png'></p>
 
 
-* *Enhancing Vision-based Vehicle Detection and Tracking with Transportation Domain Features*
+* *Stochastic Optimization and Data Compression in Distributed Learning for Image Classification*
   * **Motivation**: Intelligent Transportation Systems (ITS) are critical components to strengthen travel safety, reduce congestion and improve urban mobilities. The reliability of the system depends on spatial-temporal analytics of key traffic parameters such as density, volume, and speed, which are inferred from sensors including loop detectors and cameras using computer vision. However, the former sensors suffer from high initial costs and low frequency, while the latter may deteriorate in high occlusion and large perspective cases. Thus, in this series of research we explore the effectiveness of fusing features captured by existing transportation sensors and vision-based models for traffic parameter inference. Specifically, we have leveraged domain features with convolutional neural networks to estimate vehicle density and speed (through tracking) separately. Compared with pure visual techniques, it is validated that the inclusion of domain features improves the overall performance, and we look forward to expanding the model for other transportation tasks in future.
  
   * **Detection**: To esimate the density of vehicles, we implemented a model with CNN+rLSTM module for image inputs, and LSTM module for processed transportation features including location of buses and average traffic speed. Compared with pure vision-based detection model YOLO, we have reduced the MAE from 0.73 to 0.27, and justified the effectiveness of domain features. The detailed implementation can be found [here](). 
