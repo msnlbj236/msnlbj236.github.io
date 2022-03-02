@@ -26,3 +26,8 @@ toc: true
 
 {% include gallery id="layouts_gallery" caption="" %}
 
+
+![Koala](images/gallery/Koala.jpg)
+![Koala](images/gallery/Koala.jpg)
+![Koala](images/gallery/Koala.jpg)
+
