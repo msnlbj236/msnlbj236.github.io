@@ -7,23 +7,16 @@ author_profile: true
 Research Projects 
 --------------
 * *Accelerating Decentralized Momentum SGD in Large-batch Deep Learning for Object Detection*
-  * **Motivation**: Urban systems, including transporations and buildings are highly interrelated given the spatial-temporal flow of system users. The change of magnitude of occupancy in one system can be in proportion to the fluctuation in one another. In this project we aim at investigating the edge potential of predicting the energy profile of buildings, from the rich and fine-grained transportation data including realtime traffic flow intensity, and public transit status. The refined prediction would further improve the performance of Model Predictive Control (MPC) on building energy management. [link](). 
-
+  * **Motivation**:
       <p align="center"><img width="650" height="225" src='/images/transResearch/motivation.png'></p>
       
-  * **Modeling**: The problem is formulated as a m-to-n task, i.e., to prediction the energy profile at next n quarters using all information available up to m quarters ago. A Spatial-Temporal Graph Attention Network (STGAT) framework is proposed to capture the heterogeneous dynamic of public transit (bus) and traffic flow (inrix), where the integrated information is passed to fully-connected networks with historical energy profile and weather features to make the prediction. When compared with state-of-the-art time series baseline models, it is validated the inclusion of ambient transporation reduced the overall RMSE from 0.0478 to 0.0418.
-
-      <p align="center"><img width="900" height="300" src='/images/transResearch/STGAT.png'></p>
+  
 
 
 * *Stochastic Optimization and Data Compression in Distributed Learning for Image Classification*
-  * **Motivation**: Intelligent Transportation Systems (ITS) are critical components to strengthen travel safety, reduce congestion and improve urban mobilities. The reliability of the system depends on spatial-temporal analytics of key traffic parameters such as density, volume, and speed, which are inferred from sensors including loop detectors and cameras using computer vision. However, the former sensors suffer from high initial costs and low frequency, while the latter may deteriorate in high occlusion and large perspective cases. Thus, in this series of research we explore the effectiveness of fusing features captured by existing transportation sensors and vision-based models for traffic parameter inference. Specifically, we have leveraged domain features with convolutional neural networks to estimate vehicle density and speed (through tracking) separately. Compared with pure visual techniques, it is validated that the inclusion of domain features improves the overall performance, and we look forward to expanding the model for other transportation tasks in future.
+  * **Motivation**: 
  
-  * **Detection**: To esimate the density of vehicles, we implemented a model with CNN+rLSTM module for image inputs, and LSTM module for processed transportation features including location of buses and average traffic speed. Compared with pure vision-based detection model YOLO, we have reduced the MAE from 0.73 to 0.27, and justified the effectiveness of domain features. The detailed implementation can be found [here](). 
 
-
-  * **Tracking**: The speed estimation problem is tackled by tracking-by-detection framework. Basically, we have fine-tuned YOLO with self-labelled data as detector, and adopted Deepsort framework as tracker. However, we used LSTM network trained with transportation features instead of the Kalman filter as the state estimation module. In addition, the deep appearance descriptor was fine-tuned using UA-DETRAC and self-labelled data. Tested on one hour's data, it is validated that the fused model improved MOTP from 78.5% to 80.6%, and MOTA from 65.7% to 68.3% respectively. A sample result is attached below. 
-  
      
 Course Projects 
 ------------- 
