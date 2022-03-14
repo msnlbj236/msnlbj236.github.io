@@ -33,7 +33,7 @@ Skills
 * **Programming Language**: Python (Scikit-Learn, PyTorch, TensorFlow, OpenCV, Keras), MATLAB, C/C++, R, Java, LabVIEW
 * **Machine Learning**: Deep Learning, Optimization, Computer Vision, NLP, Predictive Modeling, Regression, Image Processing, Hypotheses Testing
 * **Data Analytics**: A/B Testing, Casual Inference, Tableau, PowerBI, SAS, Google Analytics, Microsoft Excel
-* **Database Processing**: SQL, AWS S3, Google Cloud BigQuery | Data Engineering: Spark, Hadoop, Hive, MapReduce
+* **Database Processing**: SQL, AWS S3, Google Cloud BigQuery; **Data Engineering**: Spark, Hadoop, Hive, MapReduce
 * **Optical Engineering**: CCD/CMOS detectors, camera, spectrometer, lasers, microscopes, lens, waveplates, waveguides, LED, quantum dots
 * **Fabrication & Characterization**: E-beam lithography, CVD, ALD, AFM, SEM, XRD; Raman, PL, FTIR spectroscopy
 * **Modeling and Simulation**: Monte Carlo, FDTD, RCWA, DFT, COMSOL
