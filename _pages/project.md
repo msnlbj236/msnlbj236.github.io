@@ -35,7 +35,7 @@ Research Projects in Machine Learning
   -	Applied Top-k Sparsification and Low-bit Quantization for data compression, saved memory usage by 77%.
   -	Simulated the distributed/federated learning based on Error Compensated SGD, got 93.6% accuracy with 20% time reduction. 
      
-Projects of Industry-related topics 
+Projects of Industry-related Topics 
 ------------- 
 * *Real-time Parking Space Detection*
   - Captured 600+ parking lots images from video with OpenCV and pre-processed images based on Grayscale Transform.
