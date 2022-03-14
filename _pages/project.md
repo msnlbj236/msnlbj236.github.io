@@ -6,19 +6,19 @@ author_profile: true
 
 Research Projects in Semiconductor Optics
 --------------
-* *Spectroscopy and Simulation Revealed Strong Interaction of Insulating States in Moiré Superlattice     
+* *Spectroscopy and Simulation Revealed Strong Interaction of Insulating States in Moiré Superlattice*     
   -	Fabricated a WSe2/WS2 moiré Superlattice with piezo stage. Performed SHG spectroscopy to determine the crystal orientation.
   -	Implemented Microwave Impedance Microscopy to study the low conductivity at correlated insulating states.
   -	Performed PL spectroscopy to study the strong interaction between interlayer excitons and correlated electrons in superlattice.
   -	Identified integer filling of Mott insulator and fractional fillings of Wigner crystals, with opposite valley polarization.
 	
-* *Metasurface Integrated 2D Material WSe2–SiN system for Photonic Crystal Cavities                                
+* *Metasurface Integrated 2D Material WSe2–SiN system for Photonic Crystal Cavities*                                
   - Fabricated SiN metasurface by LPCVD and inductive-coupled plasma etching. Coupled monolayer WSe2 to SiN metasurface.
   - Simulated the guided mode resonances (GMR) of the WSe2-SiN photonic crystal cavities by RCWA, FDTD and COMSOL. 
   - Performed Energy-Momentum Spectroscopy in self-built back-focal-plane imaging setup. Observed Rabi splitting of 18meV.
   - Demonstrated the existence of exciton–polariton with high Q factor~143, inspiring future applications in lasers and displays. 
 
-* *Unit Valley Polarization Quantum Bits Control in WSe2/MoSe2 Heterostructure                                       
+* *Unit Valley Polarization Quantum Bits Control in WSe2/MoSe2 Heterostructure*                                       
   - Fabricated twisted heterostructure under microscope. Wrote electrodes by E-beam lithography. Characterized devices by AFM. 
   - Identified spin-triplet and singlet interlayer excitons with PL spectroscopy by tuning electric, magnetic field and temperature.
   - Conducted helicity resolved PLE spectroscopy, discovered 100% valley polarization for future quantum computing application
