@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 Research Projects in Semiconductor Optics
---------------
+------
 * *Spectroscopy and Simulation Revealed Strong Interaction of Insulating States in Moiré Superlattice*     
   -	Fabricated a WSe2/WS2 moiré Superlattice with piezo stage. Performed SHG spectroscopy to determine the crystal orientation.
   -	Implemented Microwave Impedance Microscopy to study the low conductivity at correlated insulating states.
@@ -24,7 +24,7 @@ Research Projects in Semiconductor Optics
   - Conducted helicity resolved PLE spectroscopy, discovered 100% valley polarization for future quantum computing application
 
 Research Projects in Machine Learning
---------------
+------
 * *Accelerating Decentralized Momentum SGD in Large-batch Deep Learning for Object Detection*
   - Conducted baseline model based on PmSGD and DmSGD for object detection on Cifar-10 and ImageNet dataset using Pytorch.
   - Derived convergence analysis of SGD models in both non-convex and strongly convex scenarios for algorithm optimization.
@@ -36,7 +36,7 @@ Research Projects in Machine Learning
   -	Simulated the distributed/federated learning based on Error Compensated SGD, got 93.6% accuracy with 20% time reduction. 
      
 Projects of Industry-related Topics 
-------------- 
+------
 * *Real-time Parking Space Detection*
   - Captured 600+ parking lots images from video with OpenCV and pre-processed images based on Grayscale Transform.
   - Applied multiple image processing methods for image augmentation, expanded train dataset size by 10 times.
