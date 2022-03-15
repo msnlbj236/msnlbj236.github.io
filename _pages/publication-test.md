@@ -9,10 +9,10 @@ author_profile: true
 
 * Journal paper
   * Strong interaction between interlayer excitons and correlated electrons in WSe<sub>2</sub>/WS<sub>2</sub> moiré superlattice. [***(Nature Communications)***](https://www.nature.com/articles/s41467-021-23732-6)
-  * Correlated insulating states at fractional fillings of the WS<sub>2</sub>/WSe<sub>2</sub> moiré lattice. [***(Nature Physics)***](https://www.nature.com/articles/s41567-021-01171-w)
-  * Phonon-exciton Interactions in WSe<sub>2</sub> under a quantizing magnetic field. [***(Nature Communications)***](https://www.nature.com/articles/s41467-020-16934-x)
   * Metasurface Integrated Monolayer Exciton Polariton. [ ***(Nano Letters)***](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c01624)
   * Giant Valley-Zeeman Splitting from Spin-Singlet and Spin-Triplet Interlayer Excitons in WSe<sub>2</sub>/MoSe<sub>2</sub> Heterostructure. [***(Nano Letters)***](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b04528)
+  * Correlated insulating states at fractional fillings of the WS<sub>2</sub>/WSe<sub>2</sub> moiré lattice. [***(Nature Physics)***](https://www.nature.com/articles/s41567-021-01171-w)
+  * Phonon-exciton Interactions in WSe<sub>2</sub> under a quantizing magnetic field. [***(Nature Communications)***](https://www.nature.com/articles/s41467-020-16934-x)
 
 ## As Co-Author 
 
